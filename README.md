@@ -36,6 +36,7 @@
 ### 4. Observabilidade & ITSM
 <p align="left">
   <img src="https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+  <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/ServiceNow-81B5A1.svg?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
