@@ -2,7 +2,6 @@
 
 * Bacharel em Ciência da Computação pelo Centro Universitário UniMetrocamp.
 * Analista ITSM focado em Integrações e Infraestrutura.
-* Estudando programação e sempre buscando me aprofundar em novas tecnologias.
 
 ---
 
